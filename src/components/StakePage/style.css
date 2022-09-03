@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
-    background-color: #131823;
+    border: 2px solid #263046;
     height: 100px;
     width: 400px;
     margin-bottom: 20px;

@@ -11,7 +11,7 @@ const StakePage = () => {
   return (
     <div className="main">
       <p style={{ color: "white" }}>
-        You can have test tokens for staking from <a href="#">here</a>
+        ** You can have test tokens for staking from <a href="#">here</a>
       </p>
       <div className="main--info">
         <div>
